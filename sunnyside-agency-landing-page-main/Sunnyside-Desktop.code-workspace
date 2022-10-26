@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/code_school/html+css/Sunnyside-Desktop"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sunnyside-agency-landing-page-main",
+		"liveServer.settings.port": 5501
+	}
+}
